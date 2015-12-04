@@ -1,0 +1,35 @@
+#======= To Do List GOALS
+
+#display menu options
+	# print todo list (stored in external txt/csv file so it persists)
+	# add item to todo list
+	# delete item from list, are you sure?
+	# mark item as complete
+	# unmark item as complete
+# due dates per item
+	# reminder of deadline ==> text? email? console? TWILIO?!
+	# history of past items?
+	# search for near-due items?
+	# change due date?
+
+# item list table?
+	# ID
+	# task name
+	# due date
+	# isCompleted T/F
+#STRETCH GOALS
+	#user accounts....?
+
+# def startup():
+# 	#print today's date
+# 	#print todo list
+# 	#print any near-due items
+# 	#show menu of actions
+
+# def displayAllList():
+
+
+# def displayNearDueItems(): 
+
+
+alerts are broken :(
